@@ -105,8 +105,8 @@
           </div>
         </div>
 
+        <?php
+        require('loops/for.php'); 
+        ?>
 </body>
 </html>
-
-
-
